@@ -1,4 +1,4 @@
-# 
+# 开源 pancakeswap trading bot 脚本 Mac OS版 | 专业 pancakeswap trading bot 脚本 PC Windows版。集成 MEV防护 和 交易签名，跨平台性能最大化。
 
 
 
